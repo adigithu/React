@@ -1,7 +1,10 @@
-
+import Hello from "./work"; 
 function App() {
   return (
-    <h1>Hello World</h1>
+  <>
+  <Hello/>
+  <h1>Please help</h1>
+  </>
   );
 }
 
